@@ -1,2 +1,8 @@
 gege:
-  aaa: ggg
+  a:
+    - ggg
+    - bed
+    - xxx
+
+中文:
+  中文
