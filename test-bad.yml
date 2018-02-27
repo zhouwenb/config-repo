@@ -1,1 +1,4 @@
-bad_key:-broken
+key:
+  normal
+
+bad_key:- broken
